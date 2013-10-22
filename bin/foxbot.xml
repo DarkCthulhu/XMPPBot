@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="username">phaxbot@gmail.com</entry>
+<entry key="password">idontmindlosingthis</entry>
+<entry key="host">talk.google.com</entry>
+<entry key="port">5222</entry>
+<entry key="resource">foxbot</entry>
+</properties>
